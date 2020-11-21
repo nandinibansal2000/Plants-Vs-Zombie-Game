@@ -30,7 +30,9 @@ The game is based on the classic Plants vs Zombies game.
 ```sh
 git clone https://github.com/nandinibansal2000/Plants-Vs-Zombie-Game.git
 ```
-2. Run the following command to run the game
+2. Unzip the folder fxTry.zip
+
+3. Run the following command to run the game 
 ```sh
 javac App.java
 ```
