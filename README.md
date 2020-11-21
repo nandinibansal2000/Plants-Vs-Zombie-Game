@@ -30,13 +30,9 @@ The game is based on the classic Plants vs Zombies game.
 ```sh
 git clone https://github.com/nandinibansal2000/Plants-Vs-Zombie-Game.git
 ```
-2. Run the following command to install all the required packages.
+2. Run the following command to run the game
 ```sh
-prereqs
-```
-3.  Run the following command to run the code on localhost.
-```sh
-python3 __init__.py
+javac App.java
 ```
 
 
